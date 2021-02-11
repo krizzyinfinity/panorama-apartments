@@ -1,1 +1,1 @@
-# paorama-apartments
+# panorama-apartments
