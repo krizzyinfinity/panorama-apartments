@@ -1,0 +1,122 @@
+body {
+text-align: center;
+
+}
+h2, h3 {
+  font-family: 'Artifika', serif;
+}
+
+ p {
+   font-family: 'Kumbh Sans', sans-serif;
+   line-height: 2;
+   text-align: justify;
+ }
+
+ header {
+ background-image: url("images/pic1.jpg");
+ background-size: cover;
+ padding: 50px 200px 200px;
+}
+.about {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fdcfdf;
+}
+
+.mylink {
+  text-decoration: none;
+}
+
+.mypic2 {
+  width: 80%;
+  height: 500px;
+  margin-top: 50px;
+}
+.myh1 {
+  font-size: 460%;
+  font-family: 'Aref Ruqaa', serif;
+  -webkit-text-stroke: 2px black;
+padding-top: 100px;
+color: white;
+}
+.myheadline {
+  font-size: 460%;
+  font-family: 'Aref Ruqaa', serif;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.mypic3 {
+  padding-top: 20px;
+}
+
+
+
+
+.mynav {
+  font-size: 20px;
+  padding: 10px 50px;
+}
+
+.nav-item2:not(:last-child) {
+    -webkit-box-shadow: 10px 0 0 -9px grey;
+       -moz-box-shadow: 10px 0 0 -9px grey;
+            box-shadow: 10px 0 0 -9px grey;
+}
+ .divmiddle {
+
+   background-color: #d3e0ea;
+   padding: 50px 50px;
+
+
+ }
+ .mydiv {
+background-image: url("images/spring.png");
+ }
+
+ .myown {
+  padding: 30px;
+ }
+
+ .myp {
+   text-align: center;
+   padding: 50px;
+ }
+ .myp2 {
+   text-align: center;
+ }
+ .mybody {
+   background-color: #e7e6e1;
+ }
+
+ .mydiv2 {
+   padding-top: 60px;
+   padding-bottom: 60px;
+ }
+.mycontact {
+
+  width: 50%;
+padding-top: 50px;
+padding-bottom: 80px;
+  margin: auto;
+
+}
+
+ .myimg {
+   width: 50%;
+   height: 50%;
+}
+
+ .mypic {
+   height: 30%;
+   width: 20%;
+margin: 40px 30px;
+
+
+ }
+ footer {
+   padding-top: 50px;
+   padding-bottom: 50px;
+   background-color: #aaaaaa;
+   width: 100%;
+ }
