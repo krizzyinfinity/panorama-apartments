@@ -14,8 +14,10 @@ h2, h3 {
 
  header {
  background-image: url("images/pic1.jpg");
- background-size: cover;
- padding: 50px 200px 200px;
+background-size: cover;
+padding-top: 50px;
+padding-bottom: 200px;
+
 }
 .about {
   padding-top: 60px;
@@ -107,16 +109,26 @@ padding-bottom: 80px;
    height: 50%;
 }
 
+
  .mypic {
    height: 30%;
-   width: 20%;
+   width: 30%;
 margin: 40px 30px;
 
 
  }
  footer {
-   padding-top: 50px;
-   padding-bottom: 50px;
+   padding-top: 60px;
+   padding-bottom: 60px;
    background-color: #aaaaaa;
    width: 100%;
+ }
+
+ @media screen and (max-width: 960px) {
+   .nav-item2:not(:last-child) {
+       -webkit-box-shadow: 10px 0 0 -9px transparent;
+          -moz-box-shadow: 10px 0 0 -9px transparent;
+               box-shadow: 10px 0 0 -9px transparent;
+   }
+
  }
