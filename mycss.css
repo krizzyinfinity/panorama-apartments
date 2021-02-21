@@ -104,9 +104,9 @@ padding-bottom: 80px;
 
 }
 
- .myimg {
-   width: 50%;
-   height: 50%;
+ .mypic {
+   width: 70%;
+   height: 70%;
 }
 
 
@@ -130,5 +130,30 @@ margin: 40px 30px;
           -moz-box-shadow: 10px 0 0 -9px transparent;
                box-shadow: 10px 0 0 -9px transparent;
    }
+
+   .mypic2 {
+     width: 60%;
+     height: 60%;
+     margin: auto;
+   }
+
+   .mypic3 {
+     width: 80%;
+     height: 50%;
+     margin: auto;
+   }
+
+   .myh1 {
+     font-size: 300%;
+   }
+    header {
+      width: 100%;
+    }
+
+    .mypic {
+
+      width: 70%;
+      height: 50%;
+    }
 
  }
